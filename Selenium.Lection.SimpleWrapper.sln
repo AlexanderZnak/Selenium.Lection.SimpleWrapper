@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selenium.Lection.SimpleWrapper.Core", "Selenium.Lection.SimpleWrapper.Core\Selenium.Lection.SimpleWrapper.Core.csproj", "{54F66454-0F08-4E2F-89BB-B403CBB7B377}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selenium.Lection..SimpleWrapper.Tests", "Selenium.Lection..SimpleWrapper.Tests\Selenium.Lection..SimpleWrapper.Tests.csproj", "{F22FC39A-353F-4369-9E33-CD8BD44DE868}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54F66454-0F08-4E2F-89BB-B403CBB7B377}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54F66454-0F08-4E2F-89BB-B403CBB7B377}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54F66454-0F08-4E2F-89BB-B403CBB7B377}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54F66454-0F08-4E2F-89BB-B403CBB7B377}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F22FC39A-353F-4369-9E33-CD8BD44DE868}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F22FC39A-353F-4369-9E33-CD8BD44DE868}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F22FC39A-353F-4369-9E33-CD8BD44DE868}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F22FC39A-353F-4369-9E33-CD8BD44DE868}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
